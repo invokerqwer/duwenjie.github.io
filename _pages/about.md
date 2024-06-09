@@ -46,16 +46,16 @@ Selected Papers
    
 Awards & Honors
 ------
-1. GuSu Outstanding Scholarship, 2021, **Suzhou laboratory**. （姑苏特等奖学金）
-2. Shenzhen Stock Exchange Scholarship, 2022, **Suzhou laboratory**('深交所'专项奖)
-3. Tang Xiaoyan Scholarship, 2023，**Peking University**. (北京大学唐奖)
-4. Chinese Academy of Sciences President's Scholarship, 2023,**USTC**.(中科院院长奖)
-5. Shenzhen Stock Exchange Scholarship, 2023, **Suzhou laboratory**('深交所'专项奖)
+1. **GuSu Outstanding Scholarship**, 2021, Suzhou laboratory. （姑苏特等奖学金）
+2. **Shenzhen Stock Exchange Scholarship**, 2022, USTC('深交所'专项奖)
+3. **Tang Xiaoyan Scholarship**, 2023，Peking University. (北京大学唐奖)
+4. **Chinese Academy of Sciences President's Scholarship**, 2023, USTC.(中科院院长奖)
+5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC ('深交所'专项奖)
 
-Academic Service
+[//]Academic Service
 ------
 Program Committee Member:
-Conferences: ICLR, ICML, NeurIPS, CVPR, KDD, ACL, SDM, ECML, ICASSP, etc.
+Conferences: ICLR, ICML, NeurIPS, CVPR, KDD,  etc.
 
 Journal Reviewer: IEEE TIP, ACM TKDD, IEEE TNNLS, Neural Networks, etc.
 

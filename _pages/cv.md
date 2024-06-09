@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S.(2014-2018): Northeastern University, School of Metallurgy, Environmental Science, Bachelor's Degree, Advisor: Mei Wang 
 
 Work experience
 ======

@@ -21,10 +21,6 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
 *  (2024.05) Successfully defended the doctoral dissertation.
 <!--*  (2024.04) One paper  are accepted in JACS (Excellent journal in all areas of chemistry).-->
 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
 ![8837569](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/8848a837-62ab-4a9b-a1e1-6fa067a46774)Selected Papers
 ======
 *  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. ***Nature Water***,2023.(Nature 子刊)
@@ -51,7 +47,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
    **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
    
-Awards & Honors
+![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors
 ------
 1. **GuSu Outstanding Scholarship**, 2021, Suzhou laboratory. （姑苏特等奖学金）
 2. **Shenzhen Stock Exchange Scholarship**, 2022, USTC('深交所'专项奖)

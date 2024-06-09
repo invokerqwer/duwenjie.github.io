@@ -49,11 +49,11 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
    
 ![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors
 ------
-1. **GuSu Outstanding Scholarship**, 2021, Suzhou laboratory. （姑苏特等奖学金）
-2. **Shenzhen Stock Exchange Scholarship**, 2022, USTC('深交所'专项奖)
+1. **GuSu Outstanding Scholarship**, 2021, Suzhou laboratory. (姑苏特等奖学金)
+2. **Shenzhen Stock Exchange Scholarship**, 2022, USTC. ('深交所'专项奖)
 3. **Tang Xiaoyan Scholarship**, 2023，Peking University. (北京大学唐奖)
 4. **Chinese Academy of Sciences President's Scholarship**, 2023, USTC.(中科院院长奖)
-5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC ('深交所'专项奖)
+5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC. ('深交所'专项奖)
 
 <!--:Academic Service
 ------

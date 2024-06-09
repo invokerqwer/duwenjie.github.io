@@ -12,7 +12,7 @@ title                    : "Wenjie Du / (杜文杰)"
 title_separator          : "-"
 name                     : &name "Wenjie Du"
 description              : &description "personal description"
-url                      : https://github.com/invokerqwer/duwenjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 

@@ -27,11 +27,11 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
 
    **Wenjie Du**, JiaYuan Lu, YiRong Hu, Juanxiu Xiao, Jie Wu, Cheng Yang, Baocheng Huang, Shuo Cui, Yang Wang, Wenwei Li.[PDF](https://www.nature.com/articles/s44221-022-00021-0)
    
-*  Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. ***Journal of the American Chemical Society***,2023. (JACS, 化学领域顶刊NO.1,中科院一区， IF = 15. 419)
+*  Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. ***Journal of the American Chemical Society***,2023. (JACS, 化学领域顶刊NO.1, 中科院一区, IF = 15. 419)
 
    **Wenjie Du**, Fenfen Ma, Jiahui Zhang, Baicheng Zhang, Xiaoting Yang, Wu Di, Yang Wang, and Jun Jiang.[PDF](https://pubs.acs.org/doi/10.1021/jacs.3c10921)
    
-*  Chemistry-informed molecular graph as reaction descriptor for machine-learned retrosynthesis planning. ***Proceedings of the National Academy of Sciences***,2022. (PNAS,美国科学院院刊，中科院一区， IF = 11.1)
+*  Chemistry-informed molecular graph as reaction descriptor for machine-learned retrosynthesis planning. ***Proceedings of the National Academy of Sciences***,2022. (PNAS,美国科学院院刊, 中科院一区, IF = 11.1)
 
    Baicheng Zhang, Xiaolong Zhang, **Wenjie Du**, Zhaokun Song, Guozhen Zhang, Guoqing Zhang, Yang Wang, Xin Chen, Jun Jiang, and Yi Luo,.[PDF](https://www.pnas.org/doi/full/10.1073/pnas.2212711119)
    

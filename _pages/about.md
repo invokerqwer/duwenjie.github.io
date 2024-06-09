@@ -21,27 +21,27 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Selected Papers
 ======
-* \ Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. ***Nature Water***,2023.(Nature 子刊)
+*  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. ***Nature Water***,2023.(Nature 子刊)
 
    **Wenjie Du**, JiaYuan Lu, YiRong Hu, Juanxiu Xiao, Jie Wu, Cheng Yang, Baocheng Huang, Shuo Cui, Yang Wang, Wenwei Li.[PDF](https://www.nature.com/articles/s44221-022-00021-0)
    
-* \ Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. ***Journal of the American Chemical Society***,2023.(JACS, 化学领域顶刊NO.1,中科院一区， IF = 15. 419)
+*  Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. ***Journal of the American Chemical Society***,2023.(JACS, 化学领域顶刊NO.1,中科院一区， IF = 15. 419)
 
    **Wenjie Du**, Fenfen Ma, Jiahui Zhang, Baicheng Zhang, Xiaoting Yang, Wu Di, Yang Wang, and Jun Jiang.[PDF](https://pubs.acs.org/doi/10.1021/jacs.3c10921)
    
-* \ Chemistry-informed molecular graph as reaction descriptor for machine-learned retrosynthesis planning. ***Proceedings of the National Academy of Sciences***,2022.(PNAS,美国科学院院刊，中科院一区， IF = 11.1)
+*  Chemistry-informed molecular graph as reaction descriptor for machine-learned retrosynthesis planning. ***Proceedings of the National Academy of Sciences***,2022.(PNAS,美国科学院院刊，中科院一区， IF = 11.1)
 
    Baicheng Zhang, Xiaolong Zhang, **Wenjie Du**, Zhaokun Song, Guozhen Zhang, Guoqing Zhang, Yang Wang, Xin Chen, Jun Jiang, and Yi Luo,.[PDF](https://www.pnas.org/doi/full/10.1073/pnas.2212711119)
    
-* \ Deciphering Urban Traffic Impacts on Air Quality by Deep Learning and Emission Inventory. ***Journal of Environmental Sciences***,2023.(**ESI 高被引论文**)
+*  Deciphering Urban Traffic Impacts on Air Quality by Deep Learning and Emission Inventory. ***Journal of Environmental Sciences***,2023.(**ESI 高被引论文**)
 
    **Wenjie Du**, Lianliang Chen, Haoran Wang, Ziyang Shan, Zhengyang Zhou, Wenwei Li, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
    
-* \ Fusing 2D and 3D Molecular Graphs as Unambiguous Molecular Descriptors for Conformational and Chiral Stereoisomers. ***Briefings in Bioinformatics***,2023.(JCR Q1, IF= 13.994)
+*  Fusing 2D and 3D Molecular Graphs as Unambiguous Molecular Descriptors for Conformational and Chiral Stereoisomers. ***Briefings in Bioinformatics***,2023.(JCR Q1, IF= 13.994)
 
    **Wenjie Du**, Xiaoting Yang, Di Wu, FenFen Ma, Baicheng Zhang, Chaochao Bao, Yaoyuan Huo, Xin Chen, Yang Wang.[PDF](10.1093/bib/bbac560)
    
-* \ MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction. ***IJCAI***,2023.(CCF A)
+*  MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction. ***IJCAI***,2023.(CCF A)
 
    **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
    

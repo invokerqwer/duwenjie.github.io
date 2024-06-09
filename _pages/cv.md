@@ -16,7 +16,7 @@ Education
 * 2018-2021: M.S. University of Science and Technology of China, Department of Applied Chemistry, Master's Degree, Advisor: [Wenwei Li](https://team.ustc.edu.cn/wwli/zh_CN/index.htm).
 * 2014-2018: B.S. Northeastern University, School of Metallurgy, Environmental Science, Bachelor's Degree, Advisor: [Mei Wang](http://www.som.neu.edu.cn/2019/0118/c8283a202400/page.htm). 
 
-<--Work experience
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University

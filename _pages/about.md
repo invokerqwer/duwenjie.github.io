@@ -17,7 +17,7 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
 ======
 *  (2024.05) One papers on molecualr interaction are accepted in ACL 2024.
 *  (2024.05) One paper on molecualr interaction are accepted in IJCAI 2024.
-*  (2024.05) Successfully passed the "ghFund" review and are selected as "Outstanding." in TianJin.
+*  (2024.05) Successfully passed the "ghFund" review and are selected as "Outstanding" in TianJin.
 *  (2024.05) Successfully defended the doctoral dissertation.
 <!--*  (2024.04) One paper  are accepted in JACS (Excellent journal in all areas of chemistry).-->
 

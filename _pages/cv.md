@@ -94,4 +94,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Comprehensively oversee the AI4Sci field work of [Prof.Wang's team](https://cs.ustc.edu.cn/2020/0906/c23239a460136/page.htm).
+* Maintain good connections with Professors [Jun Jiang](https://faculty.ustc.edu.cn/jiangjun1/zh_CN/index.htm) and [Yi Luo](https://faculty.ustc.edu.cn/luoyi/zh_CN/index.htm).
+* Maintain good connections with institutions [SuZhou Lab](https://www.szlab.ac.cn/),[Westlake Universiy](https://www.westlake.edu.cn/).
+  

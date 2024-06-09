@@ -12,7 +12,6 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
 
 🌟Hiring: We are actively seeking funded visiting students, research assistant and self-motivated Ph.D. students. Since July 2022, almost every visiting student who worked with me has published papers at top conferences such as ICML, NeurIPS, and ICLR during their visit. If you are interested, please don't hesitate to contact me via [Email](duwenjie@mail.ustc.edu.cn).
 
-
 News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -47,14 +46,11 @@ Selected Papers
    
 Awards & Honors
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. xx
-3. xx
-4. xx
-5. xx
-6. xx
-7. xx
-8. xx
+1. GuSu Outstanding Scholarship, 2021, **Suzhou laboratory**. （姑苏特等奖学金）
+2. Shenzhen Stock Exchange Scholarship, 2022, **Suzhou laboratory**('深交所'专项奖)
+3. Tang Xiaoyan Scholarship, 2023，**Peking University**. (北京大学唐奖)
+4. Chinese Academy of Sciences President's Scholarship, 2023,**USTC**.(中科院院长奖)
+5. Shenzhen Stock Exchange Scholarship, 2023, **Suzhou laboratory**('深交所'专项奖)
 
 Academic Service
 ------

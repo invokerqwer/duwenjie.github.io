@@ -11,9 +11,8 @@ redirect_from:
 Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engineering/Suzhou Institute for Advanced Research, University of Science and Technology of China [USTC](https://www.ustc.edu.cn/), and a member of the [USTC-DILab](https://di.ustc.edu.cn/main.htm). I received my Ph.D. in the School of Software Engineering, USTC in 2024, supervised by Prof. Xike Xie and Prof. Yang Wang. Before starting my Ph.D. study, I received my Bachelor's degree from Northeastern University (NEU) in 2018. I have published about 20 high-level papers on research journals and conferences, including some top level international journals and conferences, such as Nature Water, Nature Communication, PNAS, JACS, ACL,IJCAI, IEEE TKDE, IEEE BIBM and so on. I am broadly interested in generalized AI for Science especially in the Environment, Chemistry and Materials science.
 
 🌟Hiring: We are actively seeking funded visiting students, research assistant and self-motivated Ph.D. students. Since July 2022, almost every visiting student who worked with me has published papers at top conferences such as ICML, NeurIPS, and ICLR during their visit. If you are interested, please don't hesitate to contact me via [Email](duwenjie@mail.ustc.edu.cn).
-![8666723_mail_icon](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/d0464f1b-eee7-42da-bc2e-8d1dd32e13a6)
 
-News
+![image](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/1451e620-ab2b-4c0e-bb43-4998e4720915)News
 ======
 *  (2024.05) One papers on molecualr interaction are accepted in ACL 2024.
 *  (2024.05) One paper on molecualr interaction are accepted in IJCAI 2024.

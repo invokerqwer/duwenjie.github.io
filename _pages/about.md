@@ -52,7 +52,7 @@ Awards & Honors
 4. **Chinese Academy of Sciences President's Scholarship**, 2023, USTC.(中科院院长奖)
 5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC ('深交所'专项奖)
 
-<Academic Service
+</Academic Service
 ------
 Program Committee Member:
 Conferences: ICLR, ICML, NeurIPS, CVPR, KDD,  etc.

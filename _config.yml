@@ -21,7 +21,7 @@ repository               : "invokerqwer/duwenjie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jiahui.png" 
+  avatar           : "wenjie.png" 
   name             : "Wenjie Du" 
   pronouns         : # example: "she/her"  
   bio              : "Associater Researcher, USTC"

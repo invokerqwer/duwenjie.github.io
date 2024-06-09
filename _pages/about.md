@@ -23,11 +23,11 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
 
 ![8837569](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/8848a837-62ab-4a9b-a1e1-6fa067a46774)Selected Papers
 ======
-*  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. ***Nature Water***,2023. (Nature 子刊)
+*  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. ***Nature Water***,2023.  (Nature 子刊)
 
    **Wenjie Du**, JiaYuan Lu, YiRong Hu, Juanxiu Xiao, Jie Wu, Cheng Yang, Baocheng Huang, Shuo Cui, Yang Wang, Wenwei Li.[PDF](https://www.nature.com/articles/s44221-022-00021-0)
    
-*  Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. ***Journal of the American Chemical Society***,2023. (JACS, 化学领域顶刊NO.1, 中科院一区, IF = 15. 419)
+*  Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. ***Journal of the American Chemical Society***, 2023. (JACS, 化学领域顶刊NO.1, 中科院一区, IF = 15. 419)
 
    **Wenjie Du**, Fenfen Ma, Jiahui Zhang, Baicheng Zhang, Xiaoting Yang, Wu Di, Yang Wang, and Jun Jiang.[PDF](https://pubs.acs.org/doi/10.1021/jacs.3c10921)
    

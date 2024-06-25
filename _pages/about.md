@@ -17,6 +17,8 @@ I have published about 20 high-level papers on research journals and conferences
 
 ![image](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/1451e620-ab2b-4c0e-bb43-4998e4720915)News
 ======
+*  (2024.06) I received the “Outstanding Doctoral Dissertation Award” in USTC.
+*  (2024.06) My paper titled “Source identification and prediction of nitrogen and phosphorus pollution of Lake Taihu by an ensemble machine learning technique” was selected as the best paper. (top 3/301) 
 *  (2024.05) One papers on molecualr interaction are accepted in ACL 2024.
 *  (2024.05) One paper on molecualr interaction are accepted in IJCAI 2024.
 *  (2024.05) Successfully passed the "ghFund" review and are selected as "Outstanding" in TianJin.

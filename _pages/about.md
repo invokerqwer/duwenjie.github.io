@@ -58,6 +58,7 @@ I have published about 20 high-level papers on research journals and conferences
 3. **Tang Xiaoyan Scholarship**, 2023, Peking University. (北京大学唐奖)
 4. **Chinese Academy of Sciences President's Scholarship**, 2023, USTC.(中科院院长奖)
 5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC. ('深交所'专项奖)
+6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
 <!--:Academic Service
 ------

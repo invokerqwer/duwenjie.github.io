@@ -71,7 +71,13 @@ I have published about 20 high-level papers on research journals and conferences
 *  MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction. ***IJCAI***,2023. (CCF A)
 
    **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
-   
+
+
+
+
+
+
+
 ![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors
 ------
 1. **GuSu Outstanding Scholarship**, 2021, Suzhou laboratory. (姑苏特等奖学金)

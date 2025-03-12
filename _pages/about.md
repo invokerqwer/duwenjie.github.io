@@ -66,7 +66,7 @@ I have published about 20 high-level papers on research journals and conferences
    
 *  Fusing 2D and 3D Molecular Graphs as Unambiguous Molecular Descriptors for Conformational and Chiral Stereoisomers. ***Briefings in Bioinformatics***,2023. (JCR Q1, IF= 13.994)
 
-   **Wenjie Du**, Xiaoting Yang, Di Wu, FenFen Ma, Baicheng Zhang, Chaochao Bao, Yaoyuan Huo, Xin Chen, Yang Wang.[PDF](10.1093/bib/bbac560)
+   **Wenjie Du**, Xiaoting Yang, Di Wu, FenFen Ma, Baicheng Zhang, Chaochao Bao, Yaoyuan Huo, Xin Chen, Yang Wang.[PDF](https://academic.oup.com/bib/article/24/1/bbac560/6931719)
    
 *  MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction. ***IJCAI***,2023. (CCF A)
 

@@ -19,6 +19,14 @@ I have published about 20 high-level papers on research journals and conferences
 
 <!-- Hiring: We are actively seeking funded visiting students, research assistant and self-motivated Ph.D. students. Since July 2022, almost every visiting student who worked with me has published papers at top conferences such as ICML, NeurIPS, and ICLR during their visit. If you are interested, please don't hesitate to contact me via Email:duwenjie@mail.ustc.edu.cn, [WeChat](https://github.com/invokerqwer/duwenjie.github.io/blob/master/images/Wechat.png). -->
 
+<style>
+pre {
+  overflow-y: auto;
+  max-height: 300px;
+}
+</style>
+
+
 
 ![image](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/1451e620-ab2b-4c0e-bb43-4998e4720915)News
 ======

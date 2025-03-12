@@ -26,15 +26,15 @@ I have published about 20 high-level papers on research journals and conferences
 <div style="max-height: 200px; overflow-y: auto; border: 0.5px solid #ddd; padding: 10px; white-space: normal;">
 
 * (2024.06) I received the “Outstanding Doctoral Dissertation Award” in USTC.
-
+<br>
 * (2024.06) My paper titled “Source identification and prediction of nitrogen and phosphorus pollution of Lake Taihu by an ensemble machine learning technique” is selected as the best paper (top 3/301). 
-
-* (2024.05) One paper on molecular interaction was accepted in **ACL 2024**.
-
-* (2024.05) One paper on molecular interaction was accepted in **IJCAI 2024**.
-
-* (2024.05) Successfully passed the **"ghFund"** review and was selected as **"Outstanding"** in Tianjin.
-
+<br>
+* (2024.05) One paper on molecular interaction was accepted in ACL 2024.
+<br>
+* (2024.05) One paper on molecular interaction was accepted in IJCAI 2024.
+<br>
+* (2024.05) Successfully passed the "ghFund" review and was selected as "Outstanding" in Tianjin.
+<br>
 * (2024.05) Successfully defended the doctoral dissertation.
 
 </div>

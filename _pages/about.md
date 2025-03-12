@@ -23,7 +23,7 @@ I have published about 20 high-level papers on research journals and conferences
 
 ![image](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/1451e620-ab2b-4c0e-bb43-4998e4720915)News
 ======
-<div style="max-height: 250px; overflow-y: auto; border: 0.1px solid #ddd; padding: 10px; white-space: normal;">
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; white-space: normal;">
 
 * <strong>(2024.06)</strong> I received the “Outstanding Doctoral Dissertation Award” in USTC.
 <br>
@@ -43,6 +43,8 @@ I have published about 20 high-level papers on research journals and conferences
 * <strong>(2024.05)</strong> Successfully defended the doctoral dissertation.
 
 </div>
+
+<br>
 
 ![8837569](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/8848a837-62ab-4a9b-a1e1-6fa067a46774)Selected Papers
 ======

@@ -25,10 +25,10 @@ I have published about 20 high-level papers on research journals and conferences
 ======
 <div style="max-height: 200px; overflow-y: auto; border: 0.5px solid #ddd; padding: 10px; white-space: normal;">
 
-* (2024.06) I received the “Outstanding Doctoral Dissertation Award” in USTC.
+* <strong>(2024.06)</strong> I received the “Outstanding Doctoral Dissertation Award” in USTC.
 <br>
 
-* (2024.06) My paper titled “Source identification and prediction of nitrogen and phosphorus pollution of Lake Taihu by an ensemble machine learning technique” is selected as the best paper (top 3/301). 
+* <strong>(2024.06)</strong> My paper titled “Source identification and prediction of nitrogen and phosphorus pollution of Lake Taihu by an ensemble machine learning technique” is selected as the best paper (top 3/301). 
 <br>
 
 * (2024.05) One paper on molecular interaction was accepted in ACL 2024.

@@ -13,7 +13,11 @@ Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engi
 
 I have published about 20 high-level papers on research journals and conferences, including some top level international journals and conferences, such as Nature Water, Nature Communication, PNAS, JACS, ACL,IJCAI, IEEE TKDE, IEEE BIBM and so on. I am broadly interested in generalized AI for Science especially in the Environment, Chemistry and Materials science. You can find my CV here: [Curriculum Vitae](https://github.com/invokerqwer/duwenjie.github.io/blob/master/assets/Curriculum_Vitae.pdf).
 
-🌟Hiring: We are actively seeking funded visiting students, research assistant and self-motivated Ph.D. students. Since July 2022, almost every visiting student who worked with me has published papers at top conferences such as ICML, NeurIPS, and ICLR during their visit. If you are interested, please don't hesitate to contact me via Email:duwenjie@mail.ustc.edu.cn, [WeChat](https://github.com/invokerqwer/duwenjie.github.io/blob/master/images/Wechat.png).
+🌟招收对AI4Science、深度学习、LLM感兴趣且有较好数理基础的学生 [推免/工程实践/远程科研实习]，可通过邮箱（duwenjie@mail.ustc.edu.cn）联系我，请附上个人简历。
+🌟中国科学技术大学数据智能实验室(DILab)诚招特任副研究员及博士后! 研究方向包括数据挖掘、机器学习、AI for Science。如您对团队研究方向感兴趣，欢迎您直接与团队负责人[汪炀](http://staff.ustc.edu.cn/~angyan/index.html)老师联系!
+
+<!-- Hiring: We are actively seeking funded visiting students, research assistant and self-motivated Ph.D. students. Since July 2022, almost every visiting student who worked with me has published papers at top conferences such as ICML, NeurIPS, and ICLR during their visit. If you are interested, please don't hesitate to contact me via Email:duwenjie@mail.ustc.edu.cn, [WeChat](https://github.com/invokerqwer/duwenjie.github.io/blob/master/images/Wechat.png). -->
+
 
 ![image](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/1451e620-ab2b-4c0e-bb43-4998e4720915)News
 ======

@@ -104,7 +104,7 @@ I have published about 20 high-level papers on research journals and conferences
 <img src="../duwenjie.github.io/images/aca.png" height="65" width="65"/> Academic Service
 ------
 Conference Committee
-----
+-
 * Program Committee Member for ICML
 * Program Committee Member for ICLR
 * Program Committee Member for NeurIPS

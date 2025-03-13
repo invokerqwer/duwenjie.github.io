@@ -74,7 +74,7 @@ I have published about 20 high-level papers on research journals and conferences
 
 
 
-<img src="../images/edu.png" height="60" width="60"/> Educations
+<img src="../duwenjie.github.io/images/edu.png" height="60" width="60"/> Educations
 ------
 
 

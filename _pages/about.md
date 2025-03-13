@@ -84,7 +84,7 @@ I have published about 20 high-level papers on research journals and conferences
 -->
 
 
-<img src="../duwenjie.github.io/images/tea.png" height="60" width="60"/> Teaching
+<img src="../duwenjie.github.io/images/tea.png" height="65" width="65"/> Teaching
 ------
 
 

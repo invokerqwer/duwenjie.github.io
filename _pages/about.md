@@ -47,6 +47,8 @@ I have published about 20 high-level papers on research journals and conferences
 
 <br>
 
+<div ID="Selected Papers"></div>
+
 ![8837569](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/8848a837-62ab-4a9b-a1e1-6fa067a46774)Selected Papers
 ======
 *  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. ***Nature Water***,2023.  (Nature 子刊)
@@ -73,7 +75,7 @@ I have published about 20 high-level papers on research journals and conferences
 
    **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
 
-
+<div ID="Educations"></div>
 
 <img src="../duwenjie.github.io/images/edu.png" height="55" width="55"/> Educations
 ------
@@ -84,13 +86,14 @@ I have published about 20 high-level papers on research journals and conferences
 2014年 - 2018年， 东北大学，冶金学院
 -->
 
+<div ID="Teaching"></div>
 
 <img src="../duwenjie.github.io/images/tea.png" height="65" width="65"/> Teaching
 ------
 * 自然语言处理，研究生课程（软件学院），2025.02 - 2025.05
 * 人工智能，研究生课程（软件学院），2024.09 - 2024.12
 
-
+<div ID="Awards & Honors"></div>
 
 ![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors
 ------
@@ -101,8 +104,9 @@ I have published about 20 high-level papers on research journals and conferences
 5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC. ('深交所'专项奖)
 6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
+<div ID="Academic Service"></div>
 
-<img src="../duwenjie.github.io/images/aca.png" height="55" width="55" ID="1005"/> Academic Service
+<img src="../duwenjie.github.io/images/aca.png" height="55" width="55"/> Academic Service
 ------
 **Conference Committee**
 * Program Committee Member for ICML

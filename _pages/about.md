@@ -100,6 +100,18 @@ I have published about 20 high-level papers on research journals and conferences
 5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC. ('深交所'专项奖)
 6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
+
+<img src="../duwenjie.github.io/images/aca.png" height="65" width="65"/> Academic Service
+------
+Conference Committee
+----
+* Program Committee Member for ICML
+* Program Committee Member for ICLR
+* Program Committee Member for NeurIPS
+* Program Committee Member for CVPR
+* Program Committee Member for KDD
+......
+
 <!--:Academic Service
 ------
 Program Committee Member:

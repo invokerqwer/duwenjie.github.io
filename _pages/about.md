@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<a href="#1005">跳转到底部</a>
-
+<!-- <a href="#1005">跳转到底部</a> -->
+<div ID="About Me"></div>
 Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engineering/Suzhou Institute for Advanced Research, University of Science and Technology of China [USTC](https://www.ustc.edu.cn/), and a member of the [USTC-DILab](https://di.ustc.edu.cn/main.htm). I received my Ph.D. in the School of Software Engineering, USTC in 2024, supervised by Prof. Xike Xie and Prof. Yang Wang. Before starting my Ph.D. study, I received my Bachelor's degree from Northeastern University (NEU) in 2018. 
 
 I have published about 20 high-level papers on research journals and conferences, including some top level international journals and conferences, such as Nature Water, Nature Communication, PNAS, JACS, ACL,IJCAI, IEEE TKDE, IEEE BIBM and so on. I am broadly interested in generalized AI for Science especially in the Environment, Chemistry and Materials science. You can find my CV here: [Curriculum Vitae](https://github.com/invokerqwer/duwenjie.github.io/blob/master/assets/Curriculum_Vitae.pdf).

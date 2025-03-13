@@ -86,6 +86,9 @@ I have published about 20 high-level papers on research journals and conferences
 
 <img src="../duwenjie.github.io/images/tea.png" height="65" width="65"/> Teaching
 ------
+* 自然语言处理，研究生课程（软件学院），2025.02 - 2025.05
+* 人工智能，研究生课程（软件学院），2024.09 - 2024.12
+
 
 
 ![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors

@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<a href="Academic Service">跳转到底部</a>
 
 Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engineering/Suzhou Institute for Advanced Research, University of Science and Technology of China [USTC](https://www.ustc.edu.cn/), and a member of the [USTC-DILab](https://di.ustc.edu.cn/main.htm). I received my Ph.D. in the School of Software Engineering, USTC in 2024, supervised by Prof. Xike Xie and Prof. Yang Wang. Before starting my Ph.D. study, I received my Bachelor's degree from Northeastern University (NEU) in 2018. 
 
@@ -101,7 +102,7 @@ I have published about 20 high-level papers on research journals and conferences
 6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
 
-<img src="../duwenjie.github.io/images/aca.png" height="55" width="55"/> Academic Service
+<img src="../duwenjie.github.io/images/aca.png" height="55" width="55" ID="Academic Service"/> Academic Service
 ------
 **Conference Committee**
 * Program Committee Member for ICML

@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "About me"
-    url: https://invokerqwer.github.io/duwenjie.github.io/#About Me
 
   - title: "News"
-    url: /talks/    
+    url: https://invokerqwer.github.io/duwenjie.github.io/#News
 
   - title: "Selected Papers"
     url: /teaching/    

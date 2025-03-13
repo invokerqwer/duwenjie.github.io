@@ -84,8 +84,8 @@ I have published about 20 high-level papers on research journals and conferences
 -->
 
 
-
-
+<img src="../duwenjie.github.io/images/tea.png" height="60" width="60"/> Teaching
+------
 
 
 ![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors

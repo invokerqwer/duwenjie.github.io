@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="1005">跳转到底部</a>
+<a href="#1005">跳转到底部</a>
 
 Hi there! I am Wenjie Du, an Associate Researcher at the School of Software Engineering/Suzhou Institute for Advanced Research, University of Science and Technology of China [USTC](https://www.ustc.edu.cn/), and a member of the [USTC-DILab](https://di.ustc.edu.cn/main.htm). I received my Ph.D. in the School of Software Engineering, USTC in 2024, supervised by Prof. Xike Xie and Prof. Yang Wang. Before starting my Ph.D. study, I received my Bachelor's degree from Northeastern University (NEU) in 2018. 
 

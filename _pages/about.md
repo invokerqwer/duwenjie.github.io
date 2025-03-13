@@ -102,7 +102,7 @@ I have published about 20 high-level papers on research journals and conferences
 6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
 
-<img src="../duwenjie.github.io/images/aca.png" height="55" width="55"/> Academic Service
+<img src="../duwenjie.github.io/images/aca.png" height="55" width="55" ID="1005"/> Academic Service
 ------
 **Conference Committee**
 * Program Committee Member for ICML
@@ -122,9 +122,9 @@ I have published about 20 high-level papers on research journals and conferences
 Program Committee Member:
 Conferences: ICLR, ICML, NeurIPS, CVPR, KDD,  etc.
 
-Journal Reviewer: IEEE TIP, ACM TKDD, IEEE TNNLS, Neural Networks, etc.-->
+Journal Reviewer: IEEE TIP, ACM TKDD, IEEE TNNLS, Neural Networks, etc.
 
 
-<h2 ID="1005">这里是底部</h2>
+<h2 ID="1005">这里是底部</h2> -->
 
 

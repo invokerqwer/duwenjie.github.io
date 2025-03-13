@@ -76,6 +76,15 @@ I have published about 20 high-level papers on research journals and conferences
 
 <img src="../duwenjie.github.io/images/edu.png" height="60" width="60"/> Educations
 ------
+* 2018 - 2024, University of Science and Technology of China, School of Software
+* 2014 - 2018, Northeastern University, School of Metallurgy
+<!--
+2018年 - 2024年， 中国科学技术大学，软件学院
+2014年 - 2018年， 东北大学，冶金学院
+-->
+
+
+
 
 
 

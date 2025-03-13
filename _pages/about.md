@@ -74,7 +74,7 @@ I have published about 20 high-level papers on research journals and conferences
 
 
 
-<img src="../duwenjie.github.io/images/edu.png" height="60" width="60"/> Educations
+<img src="../duwenjie.github.io/images/edu.png" height="55" width="55"/> Educations
 ------
 * 2018 - 2024, University of Science and Technology of China, School of Software
 * 2014 - 2018, Northeastern University, School of Metallurgy
@@ -101,7 +101,7 @@ I have published about 20 high-level papers on research journals and conferences
 6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
 
-<img src="../duwenjie.github.io/images/aca.png" height="65" width="65"/> Academic Service
+<img src="../duwenjie.github.io/images/aca.png" height="55" width="55"/> Academic Service
 ------
 **Conference Committee**
 * Program Committee Member for ICML

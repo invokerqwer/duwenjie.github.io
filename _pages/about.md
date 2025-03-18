@@ -52,7 +52,7 @@ I have published about 20 high-level papers on research journals and conferences
 
 ![8837569](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/8848a837-62ab-4a9b-a1e1-6fa067a46774)Selected Papers
 ======
-*  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. <font color='red'> Nature Water </font>,2023. <font color='red'> (Nature 子刊) </font>
+*  Spatiotemporal Pattern of Greenhouse Gas Emissions in China’s Wastewater Sector and Pathways towards Carbon Neutrality. <font color='red'> Nature Water </font>,2023. <font color='red'> (Nature 子刊) </font><br/>
    **Wenjie Du**, JiaYuan Lu, YiRong Hu, Juanxiu Xiao, Jie Wu, Cheng Yang, Baocheng Huang, Shuo Cui, Yang Wang, Wenwei Li.[PDF](https://www.nature.com/articles/s44221-022-00021-0)
    
 *  Spectroscopy-Guided Deep Learning Predicts Solid-Liquid Surface Adsorbate Properties in Unseen Solvents. <font color='red'> Journal of the American Chemical Society </font>, 2023. (JACS, 化学领域顶刊NO.1, 中科院一区, IF = 15. 419)

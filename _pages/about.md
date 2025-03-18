@@ -62,13 +62,13 @@ I have published about 20 high-level papers on research journals and conferences
    Baicheng Zhang, Xiaolong Zhang, **Wenjie Du**, Zhaokun Song, Guozhen Zhang, Guoqing Zhang, Yang Wang, Xin Chen, Jun Jiang, and Yi Luo,.[PDF](https://www.pnas.org/doi/full/10.1073/pnas.2212711119)
    
 *  Deciphering Urban Traffic Impacts on Air Quality by Deep Learning and Emission Inventory. <font color='red'> Journal of Environmental Sciences </font>,2023. <font color='red'> (ESI 高被引论文) </font><br/>
-   **Wenjie Du**, Lianliang Chen, Haoran Wang, Ziyang Shan, Zhengyang Zhou, Wenwei Li, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
+   **Wenjie Du**, Lianliang Chen, Haoran Wang, Ziyang Shan, Zhengyang Zhou, Wenwei Li, Yang Wang.[PDF](http://home.ustc.edu.cn/~zzy0929/Home/Paper/JESC22_iDeepAir.pdf)
    
 *  Fusing 2D and 3D Molecular Graphs as Unambiguous Molecular Descriptors for Conformational and Chiral Stereoisomers. <font color='red'> Briefings in Bioinformatics </font>,2023. (JCR Q1, IF= 13.994)<br/>
    **Wenjie Du**, Xiaoting Yang, Di Wu, FenFen Ma, Baicheng Zhang, Chaochao Bao, Yaoyuan Huo, Xin Chen, Yang Wang.[PDF](https://academic.oup.com/bib/article/24/1/bbac560/6931719)
    
 *  MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction. <font color='red'> IJCAI </font>,2023. (CCF A)<br/>
-   **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
+   **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.ijcai.org/proceedings/2024/642)
 
 * Inverse design of chiral functional films by a robotic AI-guided system. <font color='red'> Nature Communications </font>,2023. <font color='red'> (Nature 子刊) </font><br/>
    Yifan Xie, Shuo Feng, Linxiao Deng, Aoran Cai, Liyu Gan, Zifan Jiang, Peng Yang, Guilin Ye, Zaiqing Liu, Li Wen, Qing Zhu, Wanjun Zhang, Zhanpeng Zhang, Jiahe Li, Zeyu Feng, Chutian Zhang, **Wenjie Du**, Lixin Xu, Jun Jiang, Xin Chen & Gang Zou.[PDF](https://www.nature.com/articles/s41467-023-41951-x)

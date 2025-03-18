@@ -70,6 +70,44 @@ I have published about 20 high-level papers on research journals and conferences
 *  MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction. <font color='red'> IJCAI </font>,2023. (CCF A)<br/>
    **Wenjie Du**, Shuai Zhang, Ziyuan Zhao, Jun Xia, Junfeng Fang, Yang Wang.[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1001074221005611?via%3Dihub)
 
+* Inverse design of chiral functional films by a robotic AI-guided system. <font color='red'> Nature Communications </font>,2023. <font color='red'> (Nature 子刊) </font><br/>
+   Yifan Xie, Shuo Feng, Linxiao Deng, Aoran Cai, Liyu Gan, Zifan Jiang, Peng Yang, Guilin Ye, Zaiqing Liu, Li Wen, Qing Zhu, Wanjun Zhang, Zhanpeng Zhang, Jiahe Li, Zeyu Feng, Chutian Zhang, **Wenjie Du**, Lixin Xu, Jun Jiang, Xin Chen & Gang Zou.[PDF](https://www.nature.com/articles/s41467-023-41951-x)
+
+* Source identification and prediction of nitrogen and phosphorus pollution of Lake Taihu by an ensemble machine learning technique. <font color='red'> Frontiers of Environmental Science & Engineering </font>,2023. (JCR Q1)<br/>
+   Yirong Hu, **Wenjie Du**, Cheng Yang, Yang Wang, Tianyin Huang, Xiaoyi Xu & Wenwei Li.[PDF](https://link.springer.com/article/10.1007/s11783-023-1655-7)
+
+* On regularization for explaining graph neural networks: An information theory perspective. <font color='red'> Frontiers of Environmental Science & Engineering </font>,2024. (JCR Q1)<br/>
+   Junfeng Fang; Guibin Zhang; Kun Wang; **Wenjie Du**; Yifan Duan; Yuankai Wu.[PDF](https://ieeexplore.ieee.org/document/10582518)
+
+* SMG-BERT: integrating stereoscopic information and chemical representation for molecular property prediction. <font color='red'> Frontiers in Molecular Biosciences </font>,2023. (JCR Q2)<br/>
+   Jiahui Zhang, **Wenjie Du**, Xiaoting Yang, Di Wu, Jiahe Li, Kun Wang, Yang Wang.[PDF](https://pubmed.ncbi.nlm.nih.gov/37457837/)
+
+* Flexmol: A flexible toolkit for benchmarking molecular relational learning. <font color='red'> NeurIPS </font>,2024. (CCF A)<br/>
+   Sizhe Liu, Jun Xia, Lecheng Zhang, Yuchen Liu, Yue Liu, **Wenjie Du**, Zhangyang Gao, Bozhen Hu, Cheng Tan, hongxin xiang, Stan Z. Li.[PDF](https://neurips.cc/virtual/2024/poster/97484)
+
+* Text-guided small molecule generation via diffusion model. <font color='red'> iScience
+ </font>,2024. (JCR Q1)<br/>
+   Yanchen Luo, Junfeng Fang, Sihang Li, Zhiyuan Liu, Jiancan Wu, An Zhang, **Wenjie Du**, Xiang Wang.[PDF](https://www.cell.com/iscience/fulltext/S2589-0042(24)02217-X)
+
+* IIB-DDI: Invariant Information Bottle Theory for Out-of-Distribution Drug-Drug Interaction Prediction. <font color='red'> IEEE Transactions on Computational Biology and Bioinformatics </font>,2025. (JCR Q1)<br/>
+   Shuai Zhang, Jiahui Zhang, Xuqiang Li, Di Wu, Sihan Wang, Limin Li, **Wenjie Du**, Yang Wang.[PDF](https://www.computer.org/csdl/journal/bb/5555/01/10896805/24PzAjPPcl2)
+
+* NovoBench: Benchmarking Deep Learning-based\emph {De Novo} Sequencing Methods in Proteomics. <font color='red'> NeurIPS </font>,2024. (CCF A)<br/>
+   Jingbo Zhou, Shaorong Chen, Jun Xia, Sizhe Liu, Tianze Ling, **Wenjie Du**, Yue Liu, Jianwei Yin, Stan Z. Li.[PDF](https://openreview.net/forum?id=RQlbMrA5XL#discussion)
+
+* EMoNet: An environment causal learning for molecule OOD generalization. <font color='red'> BIBM </font>,2024. (CCF B)<br/>
+   Limin Li, Kuo Yang, **Wenjie Du**, Zhongchao Yi, Zhengyang Zhou, Yang Wang.[PDF](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822221/23oniKpw2ha)
+
+
+* MolCLW: Molecular Contrastive Learning With Learnable Weighted Substructures. <font color='red'> BIBM </font>,2024. (CCF B)<br/>
+   Jiahe Li, **Wenjie Du**, Yang Wang.[PDF](https://ieeexplore.ieee.org/document/10822075)
+
+* Improving efficiency in rationale discovery for Out-of-Distribution molecular representations. <font color='red'> BIBM </font>,2023. (CCF B)<br/>
+   Jiahui Zhang, **Wenjie Du**, Di Wu, Jiahe Li, Shuai Zhang, Yang Wang.[PDF](https://ieeexplore.ieee.org/document/10386058)
+
+
+
+
 <div ID="Educations"></div>
 
 <img src="../duwenjie.github.io/images/edu.png" height="55" width="55"/> Educations

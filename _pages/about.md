@@ -47,7 +47,8 @@ I have published about 20 high-level papers on research journals and conferences
 
 <br>
 
-<div ID="Selected Papers"></div>
+<div ID="Selected"></div>
+
 
 ![8837569](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/8848a837-62ab-4a9b-a1e1-6fa067a46774)Selected Papers
 ======
@@ -93,7 +94,7 @@ I have published about 20 high-level papers on research journals and conferences
 * 自然语言处理，研究生课程（软件学院），2025.02 - 2025.05
 * 人工智能，研究生课程（软件学院），2024.09 - 2024.12
 
-<div ID="Awards & Honors"></div>
+<div ID="Awards"></div>
 
 ![8409475](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/b7e0b364-cd83-4b8f-ae79-1019a2815581)Awards & Honors
 ------
@@ -104,7 +105,7 @@ I have published about 20 high-level papers on research journals and conferences
 5. **Shenzhen Stock Exchange Scholarship**, 2023, USTC. ('深交所'专项奖)
 6. **Outstanding Doctoral Dissertation Award**, 2024, USTC. (中科大优博)
 
-<div ID="Academic Service"></div>
+<div ID="Academic"></div>
 
 <img src="../duwenjie.github.io/images/aca.png" height="55" width="55"/> Academic Service
 ------

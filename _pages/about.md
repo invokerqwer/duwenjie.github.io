@@ -25,6 +25,23 @@ I have published about 20 high-level papers on research journals and conferences
 ![image](https://github.com/invokerqwer/duwenjie.github.io/assets/37833843/1451e620-ab2b-4c0e-bb43-4998e4720915)News
 ======
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; white-space: normal;">
+* <strong>(2025.03)</strong> Congratulations to Zhang Shuai for being named an outstanding graduate of the USTC！
+<br>
+
+* <strong>(2025.03)</strong> Congratulations to Li Jiahe for being named an outstanding graduate of the USTC！
+<br>
+  
+* <strong>(2025.02)</strong> One paper on molecular interaction was accepted in ICLR 2025.
+<br>
+  
+* <strong>(2025.02)</strong> One paper on molecular interaction was accepted in TCBB.
+<br>
+
+* <strong>(2024.11)</strong> Congratulations to Li Xuqiang for winning the National Scholarship！
+<br>
+
+* <strong>(2024.08)</strong> One paper on molecular property prediction was accepted in BIBM 2024.
+<br>
 
 * <strong>(2024.06)</strong> I received the “Outstanding Doctoral Dissertation Award” in USTC.
 <br>
@@ -141,10 +158,10 @@ I have published about 20 high-level papers on research journals and conferences
 <img src="../duwenjie.github.io/images/aca.png" height="55" width="55"/> Academic Service
 ------
 **Conference Committee**
-* Program Committee Member for ICML
-* Program Committee Member for ICLR
-* Program Committee Member for NeurIPS
-* Program Committee Member for KDD
+* Program Committee Member for ICML 2023/2024
+* Program Committee Member for ICLR 2023/2024
+* Program Committee Member for NeurIPS 2023/2024
+* Program Committee Member for KDD 2023/2024
 
 **Journal Reviewer**
 * Reviewer for IEEE TIP

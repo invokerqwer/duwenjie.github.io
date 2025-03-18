@@ -85,8 +85,7 @@ I have published about 20 high-level papers on research journals and conferences
 * Flexmol: A flexible toolkit for benchmarking molecular relational learning. <font color='red'> NeurIPS </font>,2024. (CCF A)<br/>
    Sizhe Liu, Jun Xia, Lecheng Zhang, Yuchen Liu, Yue Liu, **Wenjie Du**, Zhangyang Gao, Bozhen Hu, Cheng Tan, hongxin xiang, Stan Z. Li.[PDF](https://neurips.cc/virtual/2024/poster/97484)
 
-* Text-guided small molecule generation via diffusion model. <font color='red'> iScience
- </font>,2024. (JCR Q1)<br/>
+* Text-guided small molecule generation via diffusion model. <font color='red'> iScience </font>,2024. (JCR Q1)<br/>
    Yanchen Luo, Junfeng Fang, Sihang Li, Zhiyuan Liu, Jiancan Wu, An Zhang, **Wenjie Du**, Xiang Wang.[PDF](https://www.cell.com/iscience/fulltext/S2589-0042(24)02217-X)
 
 * IIB-DDI: Invariant Information Bottle Theory for Out-of-Distribution Drug-Drug Interaction Prediction. <font color='red'> IEEE Transactions on Computational Biology and Bioinformatics </font>,2025. (JCR Q1)<br/>

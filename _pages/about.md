@@ -113,7 +113,6 @@ I have published about 20 high-level papers on research journals and conferences
 * Program Committee Member for ICML
 * Program Committee Member for ICLR
 * Program Committee Member for NeurIPS
-* Program Committee Member for CVPR
 * Program Committee Member for KDD
 
 **Journal Reviewer**
@@ -121,6 +120,10 @@ I have published about 20 high-level papers on research journals and conferences
 * Reviewer for ACM TKDD
 * Reviewer for IEEE TNNLS
 * Reviewer for Neural Networks
+
+**Journal Editor**
+* Editor of Interdisciplinary Sciences：Computational Life Sciences
+* Editor of research 
 
 <!--:Academic Service
 ------

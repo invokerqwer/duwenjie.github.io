@@ -93,7 +93,7 @@ I have published about 20 high-level papers on research journals and conferences
 * Source identification and prediction of nitrogen and phosphorus pollution of Lake Taihu by an ensemble machine learning technique. <font color='red'> Frontiers of Environmental Science & Engineering </font>,2023. (JCR Q1)<br/>
    Yirong Hu, **Wenjie Du**, Cheng Yang, Yang Wang, Tianyin Huang, Xiaoyi Xu & Wenwei Li.[PDF](https://link.springer.com/article/10.1007/s11783-023-1655-7)
 
-* On regularization for explaining graph neural networks: An information theory perspective. <font color='red'> Frontiers of Environmental Science & Engineering </font>,2024. (JCR Q1)<br/>
+* On regularization for explaining graph neural networks: An information theory perspective. <font color='red'> Frontiers of Environmental Science & Engineering </font>,2024. (TKDE)<br/>
    Junfeng Fang; Guibin Zhang; Kun Wang; **Wenjie Du**; Yifan Duan; Yuankai Wu.[PDF](https://ieeexplore.ieee.org/document/10582518)
 
 * SMG-BERT: integrating stereoscopic information and chemical representation for molecular property prediction. <font color='red'> Frontiers in Molecular Biosciences </font>,2023. (JCR Q2)<br/>
